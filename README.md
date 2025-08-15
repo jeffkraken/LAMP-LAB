@@ -18,3 +18,4 @@ Donwload config.sh to a fresh Rocky Machine.
 Run the following:
 - chmod +x config.sh
 - /bin/bash config.sh
+This will pull down the rest of the files and configure the environment.
